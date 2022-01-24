@@ -12,6 +12,19 @@ void main(){
   ));
 }
 
+class MyApp2 extends StatefulWidget {
+  @override 
+  class  extends StatefulWidget {
+    
+    @override
+    Widget build(BuildContext context) {
+      return Container(
+        
+      );
+    }
+  }
+}
+
 class MyApp extends StatelessWidget {
   @override 
   Widget build(BuildContext context) {
